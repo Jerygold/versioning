@@ -1,0 +1,7 @@
+cd D:/Jérémy/1-cours/versioning
+git clone https://github.com/Jerygold/civ-python.git
+mettre le nouveau fichier dans le dossier cloné
+cd D:/Jérémy/1-cours/versioning/"new"
+git add "nouveau fichier"
+git commit "nouveau fichier" -m "message"
+git push
